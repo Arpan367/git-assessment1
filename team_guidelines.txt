@@ -1,2 +1,3 @@
 Initial team guidelines
 Follow clean commit message practice.
+Always write clear and meaningful commit messages.
