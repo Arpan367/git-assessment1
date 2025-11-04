@@ -1,1 +1,2 @@
 Initial team guidelines
+Follow clean commit message practice.
